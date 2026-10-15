@@ -1,0 +1,6 @@
+{
+  "name": "Teamora",
+  "description": "Mobile-first HR web app for attendance, leave, timesheets, shifts, goals, and workplace operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
